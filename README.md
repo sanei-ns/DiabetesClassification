@@ -1,5 +1,11 @@
 # DiabetesClassification
 
+
+To run this program, use the code present in classify.py and dataset which can be obtained from https://www.kaggle.com/saurabh00007/diabetescsv or directly from the repo.
+ * Place the data set and DiabetesClassificationUsing_KNN_DT_SVM.ipynb file in the same directory.
+ * Run DiabetesClassificationUsing_KNN_DT_SVM.ipynb .
+**** In the code, the comments explains what each section does ****
+
 ## Classifiers
 The classifiers used in the program are:
   * KNN (k-nearest neighbors)
